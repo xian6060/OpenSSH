@@ -53,8 +53,8 @@ download_files(
     directory_path='./testdb',
     remote_tmp_path="D:/0612/build/OsakaTest_Data/StreamingAssets/tmppath/",
     remote_db_path="D:/0612/build/OsakaTest_Data/StreamingAssets/Flower.db",
-    ssh_host='140.96.76.36',
+    ssh_host='server ip',
     ssh_port=22,
     ssh_user='user',
-    ssh_password='itriJ100'
+    ssh_password='server password'
 )
